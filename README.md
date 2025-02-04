@@ -28,6 +28,10 @@ Engage in real-time discussions with classmates and instructors through course-s
 
 ![image](https://github.com/user-attachments/assets/76b89d29-7487-4a4d-9aac-48770044da5c)
 
+## Navigation of Prototype
+
+![image](https://github.com/user-attachments/assets/bae429d9-127f-408e-8b1d-f365e93210ea)
+
 ## Demo
 Check out the prototype [here](https://youtu.be/2lse7o1S_Rs)
 
