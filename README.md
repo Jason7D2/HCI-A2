@@ -8,19 +8,24 @@ The Sheridan Courses App is a mobile application designed to improve the learnin
 
 ### 1. Course List Display
 Easily browse through your enrolled courses in a clean and organized manner.
+
 ![image](https://github.com/user-attachments/assets/3e36b067-344d-47b6-8743-c341a5d27e9d)
 
 ### 2. Individual Course Page
 Access detailed information about each course, including assignments and quizzes.
+
 ![image](https://github.com/user-attachments/assets/dfdbd5eb-9fdd-4894-ba89-002a729b512e)
 
 ### 3. Assignment Details
 View upcoming assignments details with due dates and grading rubrics, and submit your work directly through the app.
+
 ![image](https://github.com/user-attachments/assets/19e9ddf1-9759-467f-a7a0-09d46abcdead)
 
 ### 4. Group Chat for Each Course
 Engage in real-time discussions with classmates and instructors through course-specific group chats.
+
 ![image](https://github.com/user-attachments/assets/3d72af8a-91cc-4901-9744-813a95813be9)
+
 ![image](https://github.com/user-attachments/assets/76b89d29-7487-4a4d-9aac-48770044da5c)
 
 ## Installation
